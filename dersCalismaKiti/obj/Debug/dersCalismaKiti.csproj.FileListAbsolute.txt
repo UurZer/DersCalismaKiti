@@ -1,0 +1,10 @@
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\bin\Debug\dersCalismaKiti.exe.config
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\bin\Debug\dersCalismaKiti.exe
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\bin\Debug\dersCalismaKiti.pdb
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\obj\Debug\dersCalismaKiti.csprojAssemblyReference.cache
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\obj\Debug\dersCalismaKiti.Form1.resources
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\obj\Debug\dersCalismaKiti.Properties.Resources.resources
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\obj\Debug\dersCalismaKiti.csproj.GenerateResource.cache
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\obj\Debug\dersCalismaKiti.csproj.CopyComplete
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\obj\Debug\dersCalismaKiti.exe
+D:\C# Projeleri\dersCalismaKiti\dersCalismaKiti\obj\Debug\dersCalismaKiti.pdb
