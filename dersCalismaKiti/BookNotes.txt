@@ -1,0 +1,13 @@
+NO |	        Saat - Tarih  	             |           Kitap İsmi         |        TÜRÜ- YAZAR           |        Sayfa Sayısı 	  |
+-- |-----------------------------------------|------------------------------|------------------------------|------------------------------|
+#00|30.07.2020 01:13:32 - 16.08.2020 19:41:25|SİL BAŞTAN                    |KEN GRIMWOOD - ROMAN          |25                            |
+-- |-----------------------------------------|------------------------------|------------------------------|------------------------------|
+Not|her satırda kaç karakter onu say bunu bir değişkene eşitle sonrada textboxın karakterini bul mesela 2000 karakterlik olsun bunu değişk|
+---|ene böl böylelikle satır sayısını bulmuş oluruz ve 2. 3. not diye yazarız her satırda kaç karakter onu say bunu bir değişkene eşitle s|
+---|onrada textboxın karakterini bul mesela 2000 karakterlik olsun bunu değişkene böl böylelikle satır sayısını bulmuş oluruz ve 2. 3. not|
+---| diye yazarızher satırda kaç karakter onu say bunu bir değişkene eşitle sonrada textboxın karakterini bul mesela 2000 karakterlik olsu|
+---|n bunu değişkene böl böylelikle satır sayısını bulmuş oluruz ve 2. 3. not diye yazarızher satırda kaç karakter onu say bunu bir değişk|
+---|ene eşitle sonrada textboxın karakterini bul mesela 2000 karakterlik olsun bunu değişkene böl böylelikle satır sayısını bulmuş oluruz |
+---|kterlik olsun bunu değişkene böl böylelikle satır sayısını bulmuş oluruz ve 2. 3. not diye yazarız                                    |
+-- |--------------------------------------------------------------------------------------------------------------------------------------|
+#
